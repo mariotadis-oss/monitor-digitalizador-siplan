@@ -283,7 +283,7 @@ function App() {
           <h4>Contacto:</h4>
           <p><strong>Manuel Francisco Antonio Pariente Gavito</strong><br />
           Secretario de Finanzas<br />
-          mparlante@finanzaschiapas.gob.mx</p>
+          mpariente@finanzaschiapas.gob.mx</p>
           <p><strong>José Antonio Zenteno Santiago</strong><br />
           Subsecretario de Planeación<br />
           jzenteno@finanzaschiapas.gob.mx</p>
