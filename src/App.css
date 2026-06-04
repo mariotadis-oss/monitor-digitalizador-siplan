@@ -785,7 +785,7 @@ body::before {
     .container { padding: 0 20px; }
     .top-bar { flex-direction: column !important; gap: 12px !important; padding: 12px 15px !important; text-align: center !important; align-items: center !important; }
     .url-sitio { display: inline-flex !important; align-items: center !important; justify-content: center !important; width: 100% !important; }
-    .url-sitio::before { content: ''; display: inline-block !important; width: 22px !important; height: 22px !important; background-image: url('img/jamachulel-blanco.svg') !important; background-size: contain !important; background-repeat: no-repeat !important; background-position: center !important; margin-right: 4px !important; }
+    .url-sitio::before { content: ''; display: inline-block !important; width: 22px !important; height: 22px !important; background-image: url('/img/jamachulel-blanco.svg') !important; background-size: contain !important; background-repeat: no-repeat !important; background-position: center !important; margin-right: 4px !important; }
     .search-box { width: 100% !important; display: flex !important; justify-content: center !important; }
     .search-box input { width: 100% !important; max-width: 180px !important; margin: 0 auto !important; }
 }
@@ -921,7 +921,7 @@ body::before {
     height: 100%;
     z-index: 1; 
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.1) 100%),
-                      url('img/corazones1.svg');
+                      url('/img/corazones1.svg');
     background-repeat: no-repeat, repeat-x; 
     background-position: center center, left center; 
     background-size: 100% 100%, auto 75%; 
