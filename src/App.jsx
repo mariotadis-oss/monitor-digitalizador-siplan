@@ -100,7 +100,7 @@ function App() {
       {/* ENCABEZADO */}
       <header className="main-header">
         <div className="top-bar">
-          <a href="#" className="url-sitio">www.finanzaschiapas.gob.mx</a>
+          <a href="https://www.finanzaschiapas.gob.mx" target="_blank" rel="noopener noreferrer" className="url-sitio">www.finanzaschiapas.gob.mx</a>
         </div>
         <div className="banner-container">
           <div className="logo-container">
